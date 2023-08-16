@@ -9,7 +9,7 @@ Materials related to equivariant ML methods for point clouds, developed at the C
 
 ## Projects
 - Build a kNN regression method for point clouds.
-- Test the properties of the *OTT-jax* package.
+- Test the properties of the [*OTT-jax*](https://ott-jax.readthedocs.io/en/latest/) package.
   - Verify equivariances.
   - Test dependence on hyper-parameters.
 - Learn things about the information content of dark-matter halos.
