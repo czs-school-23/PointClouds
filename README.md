@@ -1,5 +1,5 @@
 # PointClouds
-Materials related to equivariant ML methods for point clouds
+Materials related to equivariant ML methods for point clouds, developed at the CZS Summer School 2023 in Heidelberg, Germany.
 
 ## Authors and contributors
 - **Kate Storey-Fisher** (NYU)
