@@ -5,6 +5,7 @@ Materials related to equivariant ML methods for point clouds, developed at the C
 - **David W. Hogg** (NYU) (MPIA) (Flatiron)
 - **Kate Storey-Fisher** (NYU)
 - **Soledad Villar** (JHU)
+- **Sebastian T. Gomez** (HITS)
 - *[add your name here]*
 
 ## Projects
